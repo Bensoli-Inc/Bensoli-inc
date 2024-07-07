@@ -11,6 +11,7 @@
 👯 Looking to collaborate on any project
 
 HERE IS MY STACK :
+
 *Javascript* || Node | Express | React | Typescript | Tailwind ||
 
 *Python* ||Django | Flask ||
