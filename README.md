@@ -4,7 +4,7 @@
 
 🔭 Currently working on an ERP system project
  
- I’m currently learning javascript and python 🌱
+ I’m currently learning javascript, python & Devops 🌱
 
  📫 How to reach me: www.bensolinc.com
  
