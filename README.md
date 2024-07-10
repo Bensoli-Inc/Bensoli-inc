@@ -20,4 +20,4 @@ HERE IS MY STACK :
 
 *Database* || Mongodb | mysql ||
 
-*Operating Systems* || Linux | windows ||
+*Operating Systems* || Linux-ubuntu | windows ||
