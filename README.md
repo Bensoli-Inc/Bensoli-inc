@@ -14,7 +14,7 @@ HERE IS MY STACK :
 
 *Javascript* || Node | Express | React | Typescript | Tailwind ||
 
-*C/C++
+*C/C++*
 
 *Python* ||Django | Flask ||
 
