@@ -6,7 +6,7 @@
 
        Web development: Javascript | React | Nodejs | Express
        
-       Software development: C/C++
+       Software development: C/C++ | Java
 
  📫 How to reach me: www.bensolinc.com or 
  
