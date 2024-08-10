@@ -4,9 +4,10 @@
 
 🔭 I’m currently working on: 
 
-       Web development: Javascript | React | Nodejs | Express
+       Software development: Java | SpringBoot | JavaEE | Microservices 
        
-       Software development: C/C++ | Java
+       Web development: Javascript | React |Nextjs | Nodejs | 
+       
 
  📫 How to reach me: www.bensolinc.com or 
  
