@@ -6,7 +6,7 @@
 
        Software development: Java | SpringBoot | JavaEE | Microservices 
        
-       Web development: Javascript | Reactjs |Nextjs | Nodejs | 
+       Web development: Javascript | Reactjs |Nextjs | Nodejs| 
        
 
  📫 How to reach me: www.bensolinc.com or 
