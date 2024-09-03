@@ -2,8 +2,8 @@
 
 🔭 I’m currently working on:
       <br><br> *Software development*: Java | SpringBoot| Microservices <br>  
-               *Web development*: Javascript | Reactjs |Nextjs | Nodejs| < br> 
-< br>📫 How to reach me: www.bensolinc.com or<br>  WhatsApp +254765525208
+               *Web development*: Javascript | Reactjs |Nextjs | Nodejs| <br> 
+<br>📫 How to reach me: www.bensolinc.com or<br>  WhatsApp +254765525208
 
 
 # 💻 Tech Stack:
