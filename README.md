@@ -1,7 +1,7 @@
 # Hi there👋, I'm Bensoli 💫.
 
 🔭 I’m currently working on:
-      <br><br> *Software development*: Java | SpringBoot| Microservices <br>  
+      <br><br> *Software development*: Java | SpringBoot | Microservices <br>  
                *Web development*: Javascript | Reactjs |Nextjs | Nodejs| <br> 
 <br>📫 How to reach me: www.bensolinc.com or *WhatsApp* +254765525208
 
