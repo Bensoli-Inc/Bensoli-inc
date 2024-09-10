@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on:
       <br><br> *Software development*: Java | SpringBoot | Microservices | Mysql<br>  
-               *Web development*: Javascript | Reactjs |Nextjs | Nodejs| <br> 
+               *Web development*: Javascript | Reactjs |Nextjs | Nodejs| MongoDb <br> 
 <br>📫 How to reach me: www.bensolinc.com or *WhatsApp* +254765525208
 
 
